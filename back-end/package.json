@@ -20,7 +20,7 @@
     "pg": "^8.6.0",
     "pg-hstore": "^2.3.3",
     "request": "^2.88.2",
-    "sequelize": "^6.6.2",
+    "sequelize": "^6.29.0",
     "should": "^13.2.3"
   },
   "devDependencies": {
